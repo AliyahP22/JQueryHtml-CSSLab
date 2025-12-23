@@ -8,4 +8,4 @@ $("#toggle2").click(function () {
   $("#toggle3").click(function () {
       $("#article3").slideToggle();
     });
- });
+
