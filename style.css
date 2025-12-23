@@ -19,3 +19,23 @@ h1{
 	font-family: 'Kurale';font-size: 28px;
 	color: oldlace;
 }
+.banner{
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+	padding: 10px 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
